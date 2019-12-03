@@ -1,6 +1,4 @@
 
-package com.java2novice.sorting;
-
 public class QuickExample {
      
     private int array[];
